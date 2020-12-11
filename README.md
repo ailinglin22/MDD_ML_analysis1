@@ -5,7 +5,8 @@ This is the machine learnig implementation on MDD depression project. It contain
 * Support Vector Machine (SVM)
 * SHapley Additive exPlanations (SHAP) 
 2. Unsupervised learning on the MDD subgroups (Clustering). 
-
+* P-Value (Linear Regression)
+* Hierarchical Clustering 
 ## Prerequisites
 - [Python3](https://www.python.org/)
 - [Numpy](https://numpy.org/)
