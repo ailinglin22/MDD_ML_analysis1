@@ -14,6 +14,6 @@ This is the machine learnig implementation on MDD depression project. It contain
 - [Matplotlib](https://matplotlib.org/)
 
 ## Workflow
-![](https://github.com/linbrainlab/MDD-project/blob/master/MDD_Workflow.png)
+![](https://github.com/linbrainlab/MDD-project/blob/master/MDD_workflow.png)
 
 ## Preliminary Experiment
