@@ -17,3 +17,14 @@ This is the machine learnig implementation on MDD depression project. It contain
 ![](https://github.com/linbrainlab/MDD-project/blob/main/imgs/MDD_workflow.png)
 
 ## Preliminary Experiment
+
+###Clustering
+sticsa_somatic: (total=32)
+group0 (n=19) avg. age:  35.89		avg. score: 18.16
+group1 (n=13) avg. age:  38.46		avg. score: 13.85
+age p-value= 0.5475660230583064
+score p-value= 0.001965779014599557
+![](https://github.com/linbrainlab/MDD-project/blob/main/imgs/Fig1.png)
+![](https://github.com/linbrainlab/MDD-project/blob/main/imgs/Fig2.png)
+![](https://github.com/linbrainlab/MDD-project/blob/main/imgs/Fig3.png)
+
