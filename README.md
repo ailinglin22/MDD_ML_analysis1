@@ -19,7 +19,8 @@ This is the machine learnig implementation on MDD depression project. It contain
 ## Preliminary Experiment
 
 ### Clustering
-We have 12 pressure scores as reference for experiments. Here is a simple experiment of the pressure score sticsa_somatic.\
+We have 12 pressure scores as reference for experiments.\
+Here is a simple experiment of the pressure score: sticsa_somatic.
 
 sticsa_somatic: (total=32)
 group0 (n=19) avg. age:  35.89		avg. score: 18.16\
