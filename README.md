@@ -22,7 +22,7 @@ This is the machine learnig implementation on MDD depression project. It contain
 We have 12 pressure scores as reference for experiments.\
 Here is a simple experiment of the pressure score: sticsa_somatic.
 
-sticsa_somatic: (total=32)
+sticsa_somatic: (total=32)\
 group0 (n=19) avg. age:  35.89		avg. score: 18.16\
 group1 (n=13) avg. age:  38.46		avg. score: 13.85\
 age p-value= 0.5475660230583064\
